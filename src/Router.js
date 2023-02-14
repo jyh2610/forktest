@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import App from "./App";
 
 import Articles from "./Articles";
-
+//리베이스!!
 export default function Router() {
   return (
     <BrowserRouter>
