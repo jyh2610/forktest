@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import App from "./App";
-import Article from "./Article";
+
 import Articles from "./Articles";
 
 export default function Router() {
